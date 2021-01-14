@@ -7,3 +7,8 @@ new_variable:
   type: str
   help: New variable
   default: Something
+
+yet_another_variable:
+  type: str
+  help: Yet another variable
+  default: Meh

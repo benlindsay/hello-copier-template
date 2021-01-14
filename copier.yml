@@ -2,3 +2,8 @@ project_name:
   type: str
   help: Your project name
   default: World
+
+new_variable:
+  type: str
+  help: New variable
+  default: Something

@@ -1,1 +1,4 @@
-my_name: World
+project_name:
+  type: str
+  help: Your project name
+  default: World
